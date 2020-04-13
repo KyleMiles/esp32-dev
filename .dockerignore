@@ -1,0 +1,5 @@
+Dockerfile
+Makefile
+.dockerignore
+readme.md
+src/build
